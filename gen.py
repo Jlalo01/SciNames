@@ -42,14 +42,3 @@ def name():
     return string
 
 
-
-
-def position(current):
-    pass
-
-
-
-def scan(current, size):
-    pass
-
-
