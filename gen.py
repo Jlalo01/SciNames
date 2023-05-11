@@ -1,5 +1,4 @@
 import random
-#from system import system
 
 
 def name():
