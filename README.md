@@ -12,6 +12,10 @@ A Random Name Generator module. Called SciNames for the basis of the project, to
 ## How to Run
 Just download the module, import it, start an instance and run the methods bases on your needs. 
 
+## Versions Log
+- SciNames v2 -> SciNames.java (This is the current and newest version of the module).
+- Gen v1 -> gen.py (Original version of the module, developed in python).
+
 ## Future Updates
 - Add method to create hyphenated random names (both random length and specific length in total or each side of the hyphen)
 - Add method to create random names with a numeric designation in roman numerals, ie. hello i (pronounced "hello one"); Or in common numerals, ie. hello 1 (pronounced "hello one")
